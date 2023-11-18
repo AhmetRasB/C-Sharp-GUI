@@ -1,0 +1,64 @@
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\bin\Debug\UserManagerCleanDashboard.exe.config
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\bin\Debug\UserManagerCleanDashboard.exe
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\bin\Debug\UserManagerCleanDashboard.pdb
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.csprojAssemblyReference.cache
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.Properties.Resources.resources
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.csproj.GenerateResource.cache
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.exe
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.pdb
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.csproj.CopyComplete
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.MainPage.resources
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Accounts.resources
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Chat.resources
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Dashboard.resources
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Invoices.resources
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Notifications.resources
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Reports.resources
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Roles.resources
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Sales.resources
+C:\Users\User\Desktop\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Settings.resources
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\bin\Debug\UserManagerCleanDashboard.exe.config
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\bin\Debug\UserManagerCleanDashboard.exe
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\bin\Debug\UserManagerCleanDashboard.pdb
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.csprojAssemblyReference.cache
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.MainPage.resources
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.Properties.Resources.resources
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Accounts.resources
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Chat.resources
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Dashboard.resources
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Invoices.resources
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Notifications.resources
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Reports.resources
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Roles.resources
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Sales.resources
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Settings.resources
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.csproj.GenerateResource.cache
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.csproj.CopyComplete
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.exe
+C:\Users\User\Documents\UI Design Projects\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.pdb
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\bin\Debug\UserManagerCleanDashboard.exe.config
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\bin\Debug\UserManagerCleanDashboard.exe
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\bin\Debug\UserManagerCleanDashboard.pdb
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.MainPage.resources
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.Properties.Resources.resources
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Accounts.resources
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Chat.resources
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Dashboard.resources
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Invoices.resources
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Notifications.resources
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Reports.resources
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Roles.resources
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Sales.resources
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.UserControls.Settings.resources
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.csproj.CopyComplete
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.exe
+C:\Users\ahmet\Desktop\Already Debbugging Programs\projeler\UserManagerCleanDashboard\UserManagerCleanDashboard\obj\Debug\UserManagerCleanDashboard.pdb
